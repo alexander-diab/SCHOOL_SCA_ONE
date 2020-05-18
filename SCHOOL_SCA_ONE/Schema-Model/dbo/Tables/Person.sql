@@ -5,7 +5,8 @@ CREATE TABLE [dbo].[Person]
 [FirstName] [nvarchar] (50) NOT NULL,
 [HireDate] [datetime] NULL,
 [EnrollmentDate] [datetime] NULL,
-[Discriminator] [nvarchar] (50) NOT NULL
+[Discriminator] [nvarchar] (50) NOT NULL,
+[BirthDate] [datetime] NULL
 )
 GO
 ALTER TABLE [dbo].[Person] ADD CONSTRAINT [PK_School.Student] PRIMARY KEY CLUSTERED  ([PersonID])

@@ -170,6 +170,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Migrations\1.0.0-Baseline\001_20200518-1303_Alexander.Diab.sql" />
+    <None Include="Migrations\1.1.0-Changes\001_20200518-1319_Alexander.Diab.sql" />
     <None Include="Pre-Deployment\01_Create_Database.sql" />
     <None Include="Programmable Objects\dbo\Stored Procedures\DeleteOfficeAssignment.sql" />
     <None Include="Programmable Objects\dbo\Stored Procedures\DeletePerson.sql" />

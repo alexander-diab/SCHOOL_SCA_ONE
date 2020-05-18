@@ -178,6 +178,7 @@
     <None Include="Programmable Objects\dbo\Stored Procedures\GetStudentGrades.sql" />
     <None Include="Programmable Objects\dbo\Stored Procedures\InsertOfficeAssignment.sql" />
     <None Include="Programmable Objects\dbo\Stored Procedures\InsertPerson.sql" />
+    <None Include="Programmable Objects\dbo\Stored Procedures\newProc.sql" />
     <None Include="Programmable Objects\dbo\Stored Procedures\UpdateOfficeAssignment.sql" />
     <None Include="Programmable Objects\dbo\Stored Procedures\UpdatePerson.sql" />
     <None Include="Schema-Model\dbo\Tables\Course.sql" />
